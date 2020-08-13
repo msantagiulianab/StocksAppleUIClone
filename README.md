@@ -1,4 +1,4 @@
-# stocks_app_flutter
+# Stocks Apple UI Clone
 
 A Flutter app to show the stocks trends.
 
