@@ -1,6 +1,6 @@
 # Stocks Apple UI Clone
 
-Stocks Apple UI Clone is an `Android app` that `mimics the looks of the Apple Stocks UI`.
+Stocks Apple UI Clone is an `Android/iOS app` that `mimics the looks of the Apple Stocks UI`.
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/21276996/90140125-31840500-dd71-11ea-92c3-ac6eead4fb52.jpg" width="300" />
