@@ -1,6 +1,10 @@
 # Stocks Apple UI Clone
 
-A Flutter app to show the stocks trends.
+A Flutter app to show the stocks trends. (UI only)
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90140125-31840500-dd71-11ea-92c3-ac6eead4fb52.jpg" width="300" />
+</p>
 
 ## Getting Started
 
