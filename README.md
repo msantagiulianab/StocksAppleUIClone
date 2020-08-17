@@ -11,7 +11,7 @@ Stocks Apple UI Clone is an `Android/iOS app` that `mimics the looks of the Appl
 Before you begin, ensure you have met the following requirements:
 * You have installed `Android 4.1 Jelly Bean or above` to run it on your mobile device.
 * You have installed `Android Studio v4.0 or above` to edit/compile it on your computer.
-* You have installed the latest version of `JRE 1.8` on your computer
+* You have installed the latest version of `Dart/Flutter SDK` on your computer
 * You have a `<Windows/Linux/Mac>` computer.
 * You have read `LICENSE file`.
 
